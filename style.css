@@ -90,3 +90,24 @@ button {
 img {
     border-radius: 8px;
 }
+
+.quote {
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    align-items: center;
+    background-color: rgb(226, 220, 220);
+    padding: 100px 0px 100px 0px;
+}
+
+.quotetext {
+    font-size: 36px;
+    font-style: italic;
+    width: 750px;  
+}
+
+.quoteauthor {
+    padding-left: 500px;
+    font-weight: bold;
+    font-size: 20px;
+}
