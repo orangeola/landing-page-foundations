@@ -111,3 +111,37 @@ img {
     font-weight: bold;
     font-size: 20px;
 }
+
+.outaction {
+    padding: 100px 0px 100px 0px;
+    display: flex;
+    justify-content: center;
+}
+
+.action {
+    display: flex;
+    justify-content: center;
+    gap: 200px;
+    background-color: #3882F6;
+    width: 800px;
+    padding: 50px 100px;
+    border-radius: 8px;
+}
+
+.actionhead {
+    color: white;
+    font-size: 24px;
+    font-weight: bolder;
+}
+
+.actionsec {
+    color: white;
+    font-size: 18px;
+}
+
+.action > button {
+    border-color: white;
+    border: 2px;
+    border-style: solid;
+    padding: 5px 30px;
+}
