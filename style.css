@@ -145,3 +145,11 @@ img {
     border-style: solid;
     padding: 5px 30px;
 }
+
+.footer {
+    display: flex;
+    justify-content: center;
+    background-color: #1F2937;
+    color: white;
+    padding: 40px 0px 40px 0px;
+}
