@@ -66,3 +66,27 @@ button {
 .heroleft {
     width: 400px;
 }
+
+.infocontent {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    gap: 50px;
+    padding-bottom: 100px;
+}
+
+.infosingle {
+    width: 200px;
+}
+
+.infoheader {
+    text-align: center;
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+    padding: 36px;
+}
+
+img {
+    border-radius: 8px;
+}
